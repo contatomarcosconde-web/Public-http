@@ -1,0 +1,1012 @@
+[
+    {
+        "id": "seed_001",
+        "name": "Amazon Prime Video",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/amazonprimevideo/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/amazonprimevideo.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_002",
+        "name": "Band Sports",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/bandsports/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/bandsports.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_003",
+        "name": "Canal Off",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/canaloff/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/canaloff.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_004",
+        "name": "CazéTV",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/cazetv/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/cazetv.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_005",
+        "name": "Combate",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/combate/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/combate.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_006",
+        "name": "DAZN",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/dazn/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/dazn.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_007",
+        "name": "Disney+",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/disneyplus/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/disneyplus.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_008",
+        "name": "ESPN",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/espn/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/espn.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_009",
+        "name": "ESPN 2",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/espn2/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/espn.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_010",
+        "name": "ESPN 3",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/espn3/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/espn.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_011",
+        "name": "ESPN 4",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/espn4/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/espn.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_012",
+        "name": "ESPN 5",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/espn5/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/espn.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_013",
+        "name": "ESPN 6",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/espn6/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/espn.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_014",
+        "name": "Max",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/max/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/max.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_015",
+        "name": "Nosso Futebol",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/nossofutebol/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/nossofutebol.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_016",
+        "name": "N Sports",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/nsports/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/nsports.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_017",
+        "name": "Paramount +",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/paramountplus/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/paramountplus.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_018",
+        "name": "Premiere Clubes",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/premiereclubes/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/premiere.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_019",
+        "name": "Premiere 2",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/premiere2/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/premiere.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_020",
+        "name": "Premiere 3",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/premiere3/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/premiere.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_021",
+        "name": "Premiere 4",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/premiere4/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/premiere.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_022",
+        "name": "Premiere 5",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/premiere5/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/premiere.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_023",
+        "name": "Premiere 6",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/premiere6/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/premiere.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_024",
+        "name": "Premiere 7",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/premiere7/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/premiere.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_025",
+        "name": "Premiere 8",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/premiere8/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/premiere.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_026",
+        "name": "SporTV",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/sportv/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/sportv.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_027",
+        "name": "SporTV 2",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/sportv2/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/sportv2.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_028",
+        "name": "SporTV 3",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/sportv3/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/sportv3.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_029",
+        "name": "TNT",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/tnt/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/tnt.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_030",
+        "name": "Xsports",
+        "category": "Esportes",
+        "iframe": "<iframe src=\"https://embedtvonline.com/xsports/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/xsports.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_031",
+        "name": "A&E",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/aee/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/aee.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_032",
+        "name": "AMC",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/amc/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/amc.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_033",
+        "name": "AXN",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/axn/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/axn.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_034",
+        "name": "Cinemax",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/cinemax/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/cinemax.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_035",
+        "name": "Globoplay Novelas",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/globoplaynovelas/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/globoplaynovelas.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_036",
+        "name": "HBO",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/hbo/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/hbo.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_037",
+        "name": "HBO 2",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/hbo2/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/hbo2.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_038",
+        "name": "HBO Family",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/hbofamily/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/hbofamily.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_039",
+        "name": "HBO Mundi",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/hbomundi/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/hbomundi.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_040",
+        "name": "HBO Plus",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/hboplus/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/hboplus.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_041",
+        "name": "HBO Pop",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/hbopop/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/hbopop.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_042",
+        "name": "HBO Signature",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/hbosignature/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/hbosignature.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_043",
+        "name": "HBO Xtreme",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/hboxtreme/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/hboxtreme.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_044",
+        "name": "Megapix",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/megapix/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/megapix.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_045",
+        "name": "Paramount Network",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/paramountnetwork/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/paramountnetwork.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_046",
+        "name": "Sony Channel",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/sonychannel/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/sonychannel.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_047",
+        "name": "Space",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/space/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/space.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_048",
+        "name": "Studio Universal",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/studiouniversal/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/studiouniversal.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_049",
+        "name": "Telecine Action",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/tcaction/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/tcaction.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_050",
+        "name": "Telecine Cult",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/tccult/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/tccult.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_051",
+        "name": "Telecine Fun",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/tcfun/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/tcfun.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_052",
+        "name": "Telecine Pipoca",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/tcpipoca/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/tcpipoca.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_053",
+        "name": "Telecine Premium",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/tcpremium/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/tcpremium.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_054",
+        "name": "Telecine Touch",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/tctouch/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/tctouch.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_055",
+        "name": "TNT",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/tnt/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/tnt.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_056",
+        "name": "TNT Novelas",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/tntnovelas/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/tntnovelas.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_057",
+        "name": "TNT Series",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/tntseries/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/tntseries.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_058",
+        "name": "Universal TV",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe height=\"100%\" width=\"100%\" frameborder=\"0\" scrolling=\"no\" src=\"https://embedtvonline.com/universaltv/\" allow=\"encrypted-media\" allowfullscreen=\"\"></iframe>",
+        "cover": "https://vipapp.site/images/universaltv.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T05:16:52+00:00"
+    },
+    {
+        "id": "seed_059",
+        "name": "Warner Channel",
+        "category": "Filmes e Séries",
+        "iframe": "<iframe src=\"https://embedtvonline.com/warner/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/warner.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_060",
+        "name": "Band SP",
+        "category": "Canais Abertos",
+        "iframe": "<iframe src=\"https://embedtvonline.com/bandsp/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/bandsp.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_061",
+        "name": "Globo MG",
+        "category": "Canais Abertos",
+        "iframe": "<iframe src=\"https://embedtvonline.com/globomg/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/globo.webp",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_062",
+        "name": "Globo RJ",
+        "category": "Canais Abertos",
+        "iframe": "<iframe src=\"https://embedtvonline.com/globorj/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/globo.webp",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_063",
+        "name": "Globo RS",
+        "category": "Canais Abertos",
+        "iframe": "<iframe src=\"https://embedtvonline.com/globors/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/globo.webp",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_064",
+        "name": "Globo SP",
+        "category": "Canais Abertos",
+        "iframe": "<iframe src=\"https://embedtvonline.com/globosp/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/globo.webp",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_065",
+        "name": "Record MG",
+        "category": "Canais Abertos",
+        "iframe": "<iframe src=\"https://embedtvonline.com/recordmg/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/record.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_066",
+        "name": "Record RJ",
+        "category": "Canais Abertos",
+        "iframe": "<iframe src=\"https://embedtvonline.com/recordrj/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/record.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_067",
+        "name": "Record SP",
+        "category": "Canais Abertos",
+        "iframe": "<iframe src=\"https://embedtvonline.com/recordsp/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/record.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_068",
+        "name": "RedeTV!",
+        "category": "Canais Abertos",
+        "iframe": "<iframe src=\"https://embedtvonline.com/redetv/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/redetv.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_069",
+        "name": "SBT SP",
+        "category": "Canais Abertos",
+        "iframe": "<iframe src=\"https://embedtvonline.com/sbtsp/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/sbtsp.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_070",
+        "name": "TV Cultura",
+        "category": "Canais Abertos",
+        "iframe": "<iframe src=\"https://embedtvonline.com/tvcultura/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/tvcultura.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_071",
+        "name": "Adult Swim",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/adultswim/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/adultswim.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_072",
+        "name": "Animal Planet",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/animalplanet/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/animalplanet.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_073",
+        "name": "Comedy Central",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/comedycentral/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/comedycentral.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_074",
+        "name": "Discovery Channel",
+        "category": "Variedades",
+        "iframe": "<iframe height=\"100%\" width=\"100%\" frameborder=\"0\" scrolling=\"no\" src=\"https://www2.embedtv.best/discoverychannel\" allow=\"encrypted-media\" allowfullscreen=\"\"></iframe>",
+        "cover": "https://vipapp.site/images/discoverychannel.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T04:54:05+00:00"
+    },
+    {
+        "id": "seed_075",
+        "name": "Discovery Home & Health",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/discoveryhh/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/discoveryhh.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_076",
+        "name": "Investigation Discovery",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/discoveryid/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/discoveryid.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_077",
+        "name": "Discovery Science",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/discoveryscience/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/discoveryscience.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_078",
+        "name": "Discovery Theater",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/discoverytheater/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/discoverytheater.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_079",
+        "name": "Discovery Turbo",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/discoveryturbo/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/discoveryturbo.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_080",
+        "name": "Discovery World",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/discoveryworld/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/discoveryworld.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_081",
+        "name": "Food Network",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/foodnetwork/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/foodnetwork.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_082",
+        "name": "GNT",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/gnt/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/gnt.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_083",
+        "name": "HGTV",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/hgtv/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/hgtv.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_084",
+        "name": "History",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/history/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/history.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_085",
+        "name": "History 2",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/history2/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/history2.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_086",
+        "name": "MTV",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/mtv/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/mtv.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_087",
+        "name": "Multishow",
+        "category": "Variedades",
+        "iframe": "<iframe src=\"https://embedtvonline.com/multishow/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/multishow.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_088",
+        "name": "BandNews",
+        "category": "Notícias",
+        "iframe": "<iframe src=\"https://embedtvonline.com/bandnews/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/bandnews.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_089",
+        "name": "CNN Brasil",
+        "category": "Notícias",
+        "iframe": "<iframe src=\"https://embedtvonline.com/cnnbrasil/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/cnnbrasil.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_090",
+        "name": "GloboNews",
+        "category": "Notícias",
+        "iframe": "<iframe src=\"https://embedtvonline.com/globonews/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/globonews.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_091",
+        "name": "Jovem Pan News",
+        "category": "Notícias",
+        "iframe": "<iframe src=\"https://embedtvonline.com/jovempannews/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/jovempannews.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_092",
+        "name": "Record News",
+        "category": "Notícias",
+        "iframe": "<iframe src=\"https://embedtvonline.com/recordnews/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/recordnews.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_093",
+        "name": "Cartoonito",
+        "category": "Infantil",
+        "iframe": "<iframe src=\"https://embedtvonline.com/cartoonito/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/cartoonito.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_094",
+        "name": "Cartoon Network",
+        "category": "Infantil",
+        "iframe": "<iframe src=\"https://embedtvonline.com/cartoonnetwork/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/cartoonnetwork.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_095",
+        "name": "Discovery Kids",
+        "category": "Infantil",
+        "iframe": "<iframe src=\"https://embedtvonline.com/discoverykids/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/discoverykids.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_096",
+        "name": "DreamWorks",
+        "category": "Infantil",
+        "iframe": "<iframe src=\"https://embedtvonline.com/dreamworks/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/dreamworks.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_097",
+        "name": "Gloob",
+        "category": "Infantil",
+        "iframe": "<iframe src=\"https://embedtvonline.com/gloob/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/gloob.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_098",
+        "name": "Gloobinho",
+        "category": "Infantil",
+        "iframe": "<iframe src=\"https://embedtvonline.com/gloobinho/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/gloobinho.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_099",
+        "name": "Nickelodeon",
+        "category": "Infantil",
+        "iframe": "<iframe src=\"https://embedtvonline.com/nickelodeon/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/nickelodeon.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_100",
+        "name": "Nick Jr.",
+        "category": "Infantil",
+        "iframe": "<iframe src=\"https://embedtvonline.com/nickjr/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/nickjr.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+        "id": "seed_101",
+        "name": "Tooncast",
+        "category": "Infantil",
+        "iframe": "<iframe src=\"https://embedtvonline.com/tooncast/\" allow=\"autoplay; fullscreen; encrypted-media\" frameborder=\"0\" width=\"100%\" height=\"550\" loading=\"lazy\"></iframe>",
+        "cover": "https://vipapp.site/images/tooncast.png",
+        "block_popups": true,
+        "created_at": "2026-01-26T00:00:00+00:00",
+        "updated_at": "2026-01-26T00:00:00+00:00"
+    }
+]
